@@ -1,0 +1,40 @@
+{
+  "validLogin": {
+    "username": "fatema309@live.com",
+    "password": "Test@12345"
+  },
+
+  "invalidLogins": [
+    {
+      "username": "invaliduser@test.com",
+      "password": "Test@12345"
+    },
+    {
+      "username": "fatema309@live.com",
+      "password": "WrongPassword123"
+    }
+  ],
+
+
+    "productsList": {
+    "productNames": [
+      "ADIDAS ORIGINAL",
+      "ZARA COAT 3",
+      "iphone 13 pro"
+    ]
+  },
+
+
+
+
+   "checkout": {
+    "cardNumber": "4542 9931 9292 2222",
+    "expiryMonth": "05",
+    "expiryYear": "30",
+    "cvv": "333",
+    "nameOnCard" : "fatema",
+    "coupon": "30%",
+    "shippingEmail": "fatema309@live.com",
+    "shippingCountry": "canada"
+  }
+}
